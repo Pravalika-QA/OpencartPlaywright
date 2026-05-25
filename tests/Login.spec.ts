@@ -24,6 +24,7 @@ test.beforeEach("before every tests executes this", async ({ page }) => {
 test.afterEach("after tests executes this", async ({ page }) => {
     await page.waitForTimeout(5000)
     await page.close();
+    
 })
 
 test("user Login @master @sanity @regression" , async()=>{
