@@ -1,0 +1,1 @@
+[{"name":"Jenkins","type":"jenkins","url":"http://localhost:8080/","buildOrder":4,"buildName":"PWOpencartlocal #4","buildUrl":"http://localhost:8080/job/PWOpencartlocal/4/display/redirect","reportName":"AllureReport","reportUrl":"http://localhost:8080/job/PWOpencartlocal/4/allure"}]
